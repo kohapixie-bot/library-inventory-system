@@ -7,3 +7,5 @@
 - Open-source helps gives licenses to codes so developer can access and modify them.
 
 - Open-source gives users access to clone code and modify it to their own project.
+
+- There are two types of licenses given to an open-source code
